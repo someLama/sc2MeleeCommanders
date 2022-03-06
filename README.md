@@ -21,11 +21,11 @@ The guide is et to come, but here is few key informations :
 
 Almost all faction get
 
--a ground ranged unit, which is overall good against anything (marine, dragoon, hydra, etc.)
--a ground main spellcaster, with some abilty to increase it's energy regeneration (templar, ascendent, infestor, defiler, ghost, spectre)
--a flying secondary spellcaster, often it is also the flying detector of this faction (oracle, coatl, raven, overseer, etc.)
--an air fighter, fast and good against other air unit, can harass, but not fight big ground army (scout, wraith, phoenix, etc.)
--a capital ship, you can have only one on the field at a time (like the mothership), it is really strong against ground unit, but weak against air fighters.
+- A ground ranged unit, which is overall good against anything (marine, dragoon, hydra, etc.)
+- A ground main spellcaster, with some abilty to increase it's energy regeneration (templar, ascendent, infestor, defiler, ghost, spectre)
+- A flying secondary spellcaster, often it is also the flying detector of this faction (oracle, coatl, raven, overseer, etc.)
+- An air fighter, fast and good against other air unit, can harass, but not fight big ground army (scout, wraith, phoenix, etc.)
+- A capital ship, you can have only one on the field at a time (like the mothership), it is really strong against ground unit, but weak against air fighters.
 
 There is less +1 upgrades now : +1 attacks and +1 armor affect all unit for each faction. Zerg factions also get +1 regen on creep (for ground units and building). Protoss factions get +1 shield regen, which also decrease the time before the regeneration start (but the shield is not affected by armor bonus).
 
