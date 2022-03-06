@@ -42,3 +42,10 @@ In future update, you will be able to use global abilities across the map, which
 - Drop pods for the Swarm
 - Infestation for the Infested (Work like stukov coop instestation, but channeled througt a corruptor, also stun the building like classic overseer infestation).
 To avoid easy worker damage (for example with bombers), this ability will not work around ennemy townhalls. (Nexii, Command centers and Hatcheries will have the "Orbital Defense" ability which blocks global abitities around them).
+
+
+
+Links :
+- US : battlenet:://starcraft/map/1/339536
+- EU : battlenet:://starcraft/map/2/238103
+- KR : battlenet:://starcraft/map/3/000000
