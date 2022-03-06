@@ -11,7 +11,7 @@ Sarah Kerrigan, known as the Queen of Blades, leads the Swarm.
 - *Defiler* is the main spellcaster. It can cast Dark Swarm, an area lasting 10 seconds where evry ground units take damages reduced by 80% from ranged sources and by 50% by splash like psy-storm. Once upgraded, it can cast Plague, dealing non-lethal temporary damages to evry units touched (temporary means the victim will recovers after 20 seconds, if they are not killed before). The Defiler can consume other units to regain energy, and can deep tunnel toward near creep.
 - *Overseer* currently can't use its changelin (the disguise ability is buggy for now), but it can spawn infested nest, which generate creep, explode when ground unit step on it, and generate broodling upon death. The *Overseer* is a detector.
 - *Devourer* is a specialized anti-air unit. It can reduce the armor of all units in a zone. It is morphed from a *mutalisk*.
-- *Ultralisk* have received few buff: it can tower over smaller units (like aberration), and can get upgraded to get the Burrow Charge. It is morph from two Roached merging together.
+- *Ultralisk* have received few buff: it can tower over smaller units (like aberration), and can get upgraded to get the Burrow Charge. It is morph from two Roaches merging together.
 - *The Leviathan* is the capital ship of the Swarm. It is made out of a *Hatch*, *Lair* or *Hive* once you have the *Greater spire*. It can throw broodlings and attack with its tentacles.
 
 ## Buildings changes
