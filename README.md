@@ -21,7 +21,7 @@ Guides :
 - Tal'Darim cult (Yet to come)
 - [Dominion empire](Dominion/)
 - Mira's Pirates (Yet to come)
-- Zerg Swarm (Yet to come)
+- [Zerg Swarm](Swarm/)
 - The Infested (Yet to come)
 
 The following is shared by all factions. Almost all faction get :
