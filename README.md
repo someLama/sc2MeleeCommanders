@@ -15,11 +15,16 @@ Currently, the AI does not know how to play with the 6 custom factions.
 If you want to test this mod against an AI, put it on Protoss race and Daelaam faction. This will revert the AI to a regular melee protoss (and not Daelaam), which the AI can handle fine.
 
 
-Guide :
+Guides :
 
-The guide is et to come, but here is few key informations :
+- Daelaam tribe (Yet to come)
+- Tal'Darim cult (Yet to come)
+- [Dominion empire](Dominion/)
+- Mira's Pirates (Yet to come)
+- Zerg Swarm (Yet to come)
+- The Infested (Yet to come)
 
-Almost all faction get
+The following is shared by all factions. Almost all faction get :
 
 - A ground ranged unit, which is overall good against anything (marine, dragoon, hydra, etc.)
 - A ground main spellcaster, with some abilty to increase it's energy regeneration (templar, ascendent, infestor, defiler, ghost, spectre)
