@@ -1,18 +1,18 @@
 Melee Commanders is an extension for custom melee games.
 
-In this mod, instead of selecting a race, you choose a faction among Daelaam, Taldarim, Dominion, Mira’s Marauders, The Swarm and The Infested.
+In this mod, instead of selecting a race, you choose a faction among Daelaam, Taldarim, Dominion, Mira’s Marauders, The Swarm, and The Infested.
 
-This 6 factions are heavily inspired from their coop equivalents, but balanced for player versus player short and fun games.
+These 6 factions are heavily inspired by their coop equivalents but balanced for player versus player short and fun games.
 
-Their is less macro mechanics (no more queen inject, chrono, mule), and the leftover macro easier to handle (autocast on unit production, select all larvae hotkey for the swarm, etc.).
+There is fewer macro mechanics (no more queen inject, chrono, mule), and the leftover macro is easier to handle (autocast on unit production, select all larvae hotkey for the swarm, etc.).
 
-Mass air composition are no longer a threat to mass ground. You can have only one capital ship at a time (like the Mothership in classic melee). Capital ship are strong against ground but weak against other air fighter. This should encourage players to max out on ground army, and have a capital ship and an air force for harassment and/or anti capital ship.
-The mod is still under development, this means there is few bug left, and few features not implemented yet. But I think this is already playable enough for fun game.
+Mass air composition is no longer a threat to mass ground. You can have only one capital ship at a time (like the Mothership in classic melee). Capital ships are strong against ground but weak against other air fighters. This should encourage players to max out on ground army, and have a capital ship and an air force for harassment and/or anti capital ship.
+The mod is still under development, which means there is a few bug left, and a few features not implemented yet. But I think this is already playable enough for fun game.
 I hope you will enjoy it! If you have any feedback, please let me know!
 
 Warning :
 Currently, the AI does not know how to play with the 6 custom factions.
-If you want to test this mod against an AI, put it on Protoss race and Daelaam faction. This will revert the AI to a regular melee protoss (and not Daelaam), which the AI can handle fine.
+If you want to test this mod against an AI, put it on Protoss race and Daelaam faction. This will revert the AI to a regular melee Protoss (and not Daelaam), which the AI can handle fine.
 
 
 Guides :
@@ -31,17 +31,18 @@ The following is shared by all factions. Almost all faction get :
 - A flying secondary spellcaster, often it is also the flying detector of this faction (oracle, coatl, raven, overseer, etc.)
 - An air fighter, fast and good against other air unit, can harass, but not fight big ground army (scout, wraith, phoenix, etc.)
 - A capital ship, you can have only one on the field at a time (like the mothership), it is really strong against ground unit, but weak against air fighters.
+- Static defenses cost 1 supply each.
 
 There is less +1 upgrades now : +1 attacks and +1 armor affect all unit for each faction. Zerg factions also get +1 regen on creep (for ground units and building). Protoss factions get +1 shield regen, which also decrease the time before the regeneration start (but the shield is not affected by armor bonus).
 
-In future update, you will be able to use global abilities across the map, which will require special building, like the coop medivacs of Tychus or the bombers of Mira. This abilites will by :
+In future updates, you will be able to use global abilities across the map, which will require special buildings, like the coop medivacs of Tychus or the bombers of Mira. These abilities will be :
 - Precision recall for the Daelaam (a recall as big as a sentry forcefield).
 - Nexus / Pylon overcharge for the Tal'Darim
-- Psy emitor for the Dominion (you launch the emitor anywhere on the map, after few seconds it attracts an hybrid hostile to anyone in sight)
+- Psy emitor for the Dominion (you launch the emitor anywhere on the map, after a few seconds it attracts a hybrid hostile to anyone in sight)
 - Bombers for Mira (like in coop)
 - Drop pods for the Swarm
-- Infestation for the Infested (Work like stukov coop instestation, but channeled througt a corruptor, also stun the building like classic overseer infestation).
-To avoid easy worker damage (for example with bombers), this ability will not work around ennemy townhalls. (Nexii, Command centers and Hatcheries will have the "Orbital Defense" ability which blocks global abitities around them).
+- Infestation for the Infested (Work like Stukov coop instestation, but channeled through a corruptor, also stun the building like classic overseer infestation).
+To avoid easy worker damage (for example with bombers), this ability will not work around enemy townhalls. (Nexii, Command centers, and Hatcheries will have the "Orbital Defense" ability which blocks global abilities around them).
 
 
 
