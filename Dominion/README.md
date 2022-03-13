@@ -22,6 +22,6 @@ The *Norad IV* is the capital ship of the Empire, this heavy battlecruiser is si
 
 ## Buildings changes
 
-Terran no longer has Orbital Command. Scan can be cast from Sensor tower instead (90 sec CD, cost 75/25).
+Terran no longer has Orbital Command. Scan can be cast from Sensor tower instead (90 sec CD, cost 50/25).
 
 The Psy emitor launcher is not implemented yet. It will be used for the global ability of the Dominion: launching Psy emitors from orbit to attract a Hybrid. The Hybrid is hostile to everyone.
