@@ -18,7 +18,7 @@ If you want to test this mod against an AI, put it on Protoss race and Daelaam f
 Guides :
 
 - Daelaam tribe (Yet to come)
-- Tal'Darim cult (Yet to come)
+- [Tal'Darim cult](TalDarim/)
 - [Dominion empire](Dominion/)
 - Mira's Pirates (Yet to come)
 - [Zerg Swarm](Swarm/)
