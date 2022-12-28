@@ -1,6 +1,6 @@
-# The zerg Swarm
+# The Blades's Brood
 
-Sarah Kerrigan, known as the Queen of Blades, leads the Swarm.
+The brood of the Queen of Blades: Sarah Kerrigan.
 
 ## Units
 
@@ -14,7 +14,7 @@ Sarah Kerrigan, known as the Queen of Blades, leads the Swarm.
 - *Overseer* currently can't use its changeling (the disguise ability is buggy for now), but it can spawn infested nest, which generate creep, explode when ground unit steps on it, and generate broodling upon death. The *Overseer* is a detector.
 - *Devourer* is a specialized anti-air unit. It can reduce the armor of all units in a zone. It is morphed from a *mutalisk*.
 - *Ultralisk* have received a few buff: it can tower over smaller units (like aberration), and can get upgraded to get the Burrow Charge. It is morphed from two Roaches merging together.
-- *The Leviathan* is the capital ship of the Swarm. It is made out of a *Hatch*, *Lair* or *Hive* once you have the *Greater spire*. It can throw broodlings and attack with its tentacles.
+- *The Leviathan* is the capital ship of the Blades' Brood. It is made out of a *Hatch*, *Lair* or *Hive* once you have the *Greater spire*.
 
 ## Buildings changes
 
