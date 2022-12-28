@@ -4,10 +4,12 @@ Sarah Kerrigan, known as the Queen of Blades, leads the Swarm.
 
 ## Units
 
-- *Zergling* works like in classic melee, except two *zerglings* can merge into a roach.
+- *Zergling* works like in classic melee, except two *zerglings* can merge into a *roach*.
 - *Hydralisk* is weaker and cheaper than the classic melee hydralisks. They can morph into *Lurker*. *Hydralisks* are Tier 1 units (You don't need a *Lair*, just a *Spawning pool*, to build the *Hydralisk den*).
 - *Roach* is morphed from two *zerglings* merging. *Roaches* are bigger and tankier than their classic counterpart, but not big damage dealer. Their attack slow the move speed, and they can be upgraded to also slow the attack speed. They are Tier 2 units (You need the *Lair* to make the *Roach warren*.). Two *Roaches* can merge into an *Ultralisk*.
 - *Mutalisk* did not change much in this mod, except it deals lower damage to non-light units. You can also morph them into *Devourer* once you get the *Greater Spire*.
+- *Lurker* is less expensive, its attack is slower, has less range and deals less damages. Two *lurker* can merge into an *impaler* 
+- *Impaler* can be upgraded to apply root on attacks.
 - *Defiler* is the main spellcaster. It can cast Dark Swarm, an area lasting 10 seconds where every ground units take damages reduced by 80% from ranged sources and by 50% by splash like psy-storm. Once upgraded, it can cast Plague, dealing non-lethal temporary damages to every units touched (temporary means the victim will recover after 20 seconds if they are not killed before). The Defiler can consume other units to regain energy, and can deep tunnel toward near creep.
 - *Overseer* currently can't use its changeling (the disguise ability is buggy for now), but it can spawn infested nest, which generate creep, explode when ground unit steps on it, and generate broodling upon death. The *Overseer* is a detector.
 - *Devourer* is a specialized anti-air unit. It can reduce the armor of all units in a zone. It is morphed from a *mutalisk*.
