@@ -17,17 +17,18 @@ Alarak is the Highlord of the Forged.
 - Sacrifice, which restores all their energy at the cost of a *Supplicant* life. Can be upgraded to also permanently increase their spell damages by 25% and shields by 20. This can only be stacked 4 times.
 - Ascend, which requires to have the 4 stacks of Power Overwhelming. This morph the caster into an *Ascended Archon*, which have the same abilities, but with shield instead of energy (Storm and Disintegrate cost 75 shield, Sacrifice give back 150 shield)
 
-*Scouts* are good at intercepting other air units. They can harass enemy workers or a small number of light units, but cannot stand against heavy firepower. They cost 4 out of 5 warp charges of Warp Gates, warp slower than other gateway units, and need the Heavy Warpin Research from the *Fleet Beacon* to be warped directly on the field.
 
 ## Robotic Units
 
-*Oracles* are detectors, they can reveal the weakness of up to two units at once, increasing the damage dealt to them by 15% (30% once upgraded). They can put in statis an enemy unit (need to research at the *Robotics Bay*).
+*Scouts* are good at intercepting other air units. They can harass enemy workers or a small number of light units, but cannot stand against heavy firepower.
+
+*Oracles* are detectors, they can reveal the weakness of up to two units at once, increasing the damage dealt to them by 15% (30% once upgraded). They can put in statis an enemy unit (need to research at the *Fleet beacon*).
 
 *Warp prisms* work like in classic melee games.
 
 *Vanguards* deals a lot of splash damages with a low attack speed.
 
-*Wrathwalkers* attack at long range, can attack while moving, but are vulnerable to anti-air attacks.
+*Wrathwalkers* attack at long range, can attack while moving, but are vulnerable to anti-air attacks. They can be upgraded to fire instant laser instead of a burst, which mitigate overkill when several Wrathwalkers are side by side.
 
 
 The Tal'Darim can warp a *Mothership* at any Nexus once they have a *Fleet Beacon*. The Mothership can deal heavy splash damage in a line to enemy ground units and recall with close allies toward any allied Nexus.
@@ -36,4 +37,4 @@ The Tal'Darim can warp a *Mothership* at any Nexus once they have a *Fleet Beaco
 
 Protoss shield upgrade now increases shield regeneration and decreases the waiting time before the shield starts the regenerate after taking damages. The resistance of the shield is always 0.
 
-Producing through Warp Gate is now slower overall than producing through Gateway. Warp Gate now consumes charges to warp units, high-tech units require more charges. They have 5 charge maximum, Supplicants and Stalker requires 2, Ascendants and Blood Hunters 3, and Scouts 4. Scouts need the Heavy Warpgate Research before they can be warped from Warp Gates.
+Producing through Warp Gate is now slower overall than producing through Gateway. Warp Gate now consumes charges to warp units, high-tech units require more charges. They have 5 charge maximum, Supplicants and Stalker requires 2, Ascendants and Blood Hunters requires 3 charges.
