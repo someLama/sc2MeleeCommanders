@@ -1,6 +1,6 @@
 # The Terran Dominion
 
-Arcturus Mengsk leads with an iron fist the Terran empire. No sacrifice is too great for humanity!
+Arcturus Mengsk leads with an iron fist the Terran empire. He does not goes on the battlefield himself, but send Nova when he need a hero unit on the field.
 
 ## Units
 
